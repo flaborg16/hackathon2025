@@ -32,7 +32,9 @@ origins = [
     "http://localhost",
     "http://localhost:8000",
     "http://localhost:3000",
-    "http://localhost:3001"
+    "http://localhost:3001",
+    "https://user-service-5mr3.onrender.com",
+    "https://foursight.onrender.com"
     # Add other origins if necessary
 ]
 
